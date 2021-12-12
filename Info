@@ -1,0 +1,3 @@
+Please find on versions, package of Ginger which supports execution on Mac OS.
+not require installation, need only to unzip on the Mac OS and execute with a command like below:
+dotnet "{{GingerFolder}}/GingerRuntime.dll" run {{Parameters}}
